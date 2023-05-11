@@ -1,0 +1,23 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.studentlist{
+    width: 500px;
+    background:#f67280;
+    margin: 0 auto;
+    margin-top: 50px;
+    padding: 50px;
+    border-radius: 20px;
+}
+.studentlist .student{
+    border-bottom: 1px solid #fff;
+    color: #fff;
+}
+.studentlist .student span{
+    width: 80%;
+    display: inline-block;
+    margin: 10px;
+}
